@@ -1,4 +1,8 @@
+# binrary
 ORD
+
+# backup
+*.orig
 
 # Prerequisites
 *.d
